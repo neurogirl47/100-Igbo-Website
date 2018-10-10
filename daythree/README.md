@@ -2,3 +2,4 @@ Spent today trying to fix the "Wakandize" website. Finally got it to work albeit
 The most important part is that you see your name with "T'Ch" at the beginning and using the Wakandized font.
 
 It is currently 7:20 pm and I am going to try edit the home page to look more appealing.
+I updated index.html using grid layout. It took me about an hour. I am ending my day at 8:30pm.
