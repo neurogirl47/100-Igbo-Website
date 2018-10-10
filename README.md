@@ -10,4 +10,6 @@ Note:I literally worked on Day One for under 2 hours. I did not spend a lot of t
 
 As short and simple as this code looks, despite the fact that I couldn't get it to work, I spent several hours (5+) of non-stop coding trying to make it work. I told my self that I would begin wrapping up close to midnight. It is now 11:56pm.
 
-<b>October 9, 2018:</b> <a href="https://github.com/neurogirl47/100-Igbo-Website/tree/master/daythree">Day Three </a>
+<b>October 9, 2018:</b> <a href="https://github.com/neurogirl47/100-Igbo-Website/tree/master/daythree">Day Three </a> - <i>Using Grid Layout on Home Page and finishing the Wakandize app</i> - Spent most of this day trying to fix the "Wakandize" website. Finally got it to work albeit not the way I wanted it to. I ended up using document.write() funtion to get the words on the screen. The most important part is that you see your name with "T'Ch" at the beginning and using the Wakandized font.
+
+	Around 7:20 pm and I practiced using grid-layout css code to edit the home page to look a little bit more appealing. I ended my day at 8:30pm.
