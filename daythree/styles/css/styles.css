@@ -1,0 +1,56 @@
+body{
+	background-color: purple;
+}
+
+h2 {
+	color: purple;
+}
+
+.udochi {
+	width: 70%;
+	height: 70%;
+	transform: rotate(-90deg);
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+
+.grid-container {
+	display: grid;
+	grid-template-areas: 
+	'header header header header header header'
+	'pic video video main main main'
+	'pic video video main main main'
+	'profile video video main main main'
+	'profile video video main main main';
+	grid-gap: 10px;
+	background-color: white;
+	height: 100%;
+}
+
+.grid-container > div {
+	background-color: pink;
+	text-align: left;
+	padding: 20px 20px 20px 20px;
+	font-size: 16px;
+}
+
+.intro {
+	grid-area: header;
+}
+
+.bio {
+	grid-area: profile;
+}
+
+.projects {
+	grid-area: main;
+}
+
+.video {
+	grid-area: video;
+}
+
+.udo-pic {
+	grid-area: pic;
+}
